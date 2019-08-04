@@ -1,4 +1,4 @@
-print("Hello world!")
-# print("Hello world, again!")
+print("Hi world!")
+# print("Hi world, again!")
 
-print("Hello statement added by Kunal")
+print("Hi statement added by Kunal")
