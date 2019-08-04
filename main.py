@@ -5,6 +5,5 @@ def print_hello():
     print("Hi statement added by Kunal")
 
 
-
-def __name__ == "__main__":
+if __name__ == "__main__":
     print_hello()
