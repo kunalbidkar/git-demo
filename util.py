@@ -2,7 +2,7 @@ from datetime import datetime
 
 
 def curr_time():
-    print(__name__)
+    # print(__name__)
     return datetime.now()
 
 
